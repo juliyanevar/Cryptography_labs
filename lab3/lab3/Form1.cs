@@ -24,23 +24,20 @@ namespace lab3
             {
                 for (int i = Convert.ToInt32(number1.Text); i > 0; i--)
                 {
-                    if (Convert.ToInt32(number1.Text) % i == 0)
+                    if (Convert.ToInt32(number1.Text) % i == 0 && Convert.ToInt32(number2.Text) % i == 0)
                     {
-                        if (Convert.ToInt32(number2.Text) % i == 0)
+                        if (number3.Text != null && number3.Text != "")
                         {
-                            if(number3.Text != null && number3.Text != "")
-                            {
-                                if (Convert.ToInt32(number3.Text) % i == 0)
-                                {
-                                    result.Text = i.ToString();
-                                    break;
-                                }
-                            }
-                            else
+                            if (Convert.ToInt32(number3.Text) % i == 0)
                             {
                                 result.Text = i.ToString();
                                 break;
                             }
+                        }
+                        else
+                        {
+                            result.Text = i.ToString();
+                            break;
                         }
                     }
                 }
@@ -91,7 +88,7 @@ namespace lab3
 
                 int count = 0;
 
-                if(num1<n)
+                if (num1 < n)
                 {
                     foreach (int i in Simple)
                         if (i >= num1)
@@ -107,7 +104,7 @@ namespace lab3
                 }
 
                 result.Text += "Всего простых чисел в интервале: " + count;
-            }    
+            }
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -127,11 +124,15 @@ namespace lab3
                     }
                 }
             }
-            else res = false;
+            else
+            {
+                res = false;
+            }
 
             if (res)
                 result.Text += "Да";
-            else result.Text += "Нет";
+            else 
+                result.Text += "Нет";
         }
     }
 }
