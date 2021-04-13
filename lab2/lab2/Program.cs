@@ -42,7 +42,8 @@ namespace lab2
         {
             string path = @"C:\Users\Julia\Documents\учеба\6 сем\КМЗИ\labs\lab2\lab2\file0.txt";
             string file = File.ReadAllText(path, Encoding.Default);
-            Regex regex = new Regex(@"[А-Яа-я]");
+            file = file.ToLower();
+            Regex regex = new Regex(@"[а-я]");
             double ruEntr;
             String resultText = "";
             MatchCollection matches = regex.Matches(file);
@@ -69,7 +70,8 @@ namespace lab2
 
             path = @"C:\Users\Julia\Documents\учеба\6 сем\КМЗИ\labs\lab2\lab2\file1.txt";
             file = File.ReadAllText(path, Encoding.Default);
-            regex = new Regex(@"[A-Za-z]");
+            file = file.ToLower();
+            regex = new Regex(@"[a-z]");
             double enEntr;
             resultText = "";
             matches = regex.Matches(file);
