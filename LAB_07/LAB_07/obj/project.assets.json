@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julia\\Documents\\учеба\\6 сем\\КМЗИ\\help\\Cryptography_3K2S\\LAB_07\\LAB_07\\LAB_07.csproj",
+      "projectUniqueName": "C:\\Users\\Julia\\Documents\\учеба\\6 сем\\КМЗИ\\labs\\LAB_07\\LAB_07\\LAB_07.csproj",
       "projectName": "LAB_07",
-      "projectPath": "C:\\Users\\Julia\\Documents\\учеба\\6 сем\\КМЗИ\\help\\Cryptography_3K2S\\LAB_07\\LAB_07\\LAB_07.csproj",
+      "projectPath": "C:\\Users\\Julia\\Documents\\учеба\\6 сем\\КМЗИ\\labs\\LAB_07\\LAB_07\\LAB_07.csproj",
       "packagesPath": "C:\\Users\\Julia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julia\\Documents\\учеба\\6 сем\\КМЗИ\\help\\Cryptography_3K2S\\LAB_07\\LAB_07\\obj\\",
+      "outputPath": "C:\\Users\\Julia\\Documents\\учеба\\6 сем\\КМЗИ\\labs\\LAB_07\\LAB_07\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
