@@ -1,0 +1,10 @@
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.BBS\lab8.BBS\bin\Debug\lab8.BBS.exe.config
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.BBS\lab8.BBS\bin\Debug\lab8.BBS.exe
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.BBS\lab8.BBS\bin\Debug\lab8.BBS.pdb
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.BBS\lab8.BBS\obj\Debug\lab8.BBS.csprojAssemblyReference.cache
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.BBS\lab8.BBS\obj\Debug\lab8.BBS.Form1.resources
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.BBS\lab8.BBS\obj\Debug\lab8.BBS.Properties.Resources.resources
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.BBS\lab8.BBS\obj\Debug\lab8.BBS.csproj.GenerateResource.cache
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.BBS\lab8.BBS\obj\Debug\lab8.BBS.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.BBS\lab8.BBS\obj\Debug\lab8.BBS.exe
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.BBS\lab8.BBS\obj\Debug\lab8.BBS.pdb

@@ -1,0 +1,10 @@
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.RC4\lab8.RC4\bin\Debug\lab8.RC4.exe.config
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.RC4\lab8.RC4\bin\Debug\lab8.RC4.exe
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.RC4\lab8.RC4\bin\Debug\lab8.RC4.pdb
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.RC4\lab8.RC4\obj\Debug\lab8.RC4.csprojAssemblyReference.cache
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.RC4\lab8.RC4\obj\Debug\lab8.RC4.Form1.resources
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.RC4\lab8.RC4\obj\Debug\lab8.RC4.Properties.Resources.resources
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.RC4\lab8.RC4\obj\Debug\lab8.RC4.csproj.GenerateResource.cache
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.RC4\lab8.RC4\obj\Debug\lab8.RC4.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.RC4\lab8.RC4\obj\Debug\lab8.RC4.exe
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab8.RC4\lab8.RC4\obj\Debug\lab8.RC4.pdb
