@@ -1,0 +1,12 @@
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab9\lab9\bin\Debug\lab9.exe.config
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab9\lab9\bin\Debug\lab9.exe
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab9\lab9\bin\Debug\lab9.pdb
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab9\lab9\obj\Debug\lab9.csprojAssemblyReference.cache
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab9\lab9\obj\Debug\lab9.Form1.resources
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab9\lab9\obj\Debug\lab9.Properties.Resources.resources
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab9\lab9\obj\Debug\lab9.csproj.GenerateResource.cache
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab9\lab9\obj\Debug\lab9.exe
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab9\lab9\obj\Debug\lab9.pdb
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab9\lab9\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab9\lab9\obj\Debug\lab9.csproj.CopyComplete

@@ -14,8 +14,9 @@ namespace lab8.RC4
     {
         byte[] key = new byte[] { 61, 60, 23, 22, 21, 20 };
 
-        string Crypt(string data1, byte[] key)
+        string Crypt(string data1, byte[] key, out TimeSpan time)
         {
+            DateTime t = DateTime.Now;
             byte[] data = Encoding.GetEncoding(1251).GetBytes(data1);
             int a, i, j, k, tmp;
             int[] S = new int[256];
@@ -26,7 +27,7 @@ namespace lab8.RC4
                 S[i] = i;
             }
 
-            for (j = i = 0; i < S.Length; i++)
+            for (j = i = 0; i < S.Length; i++) //запролнение таблицы замен S
             {
                 j = (j + S[i] + key[i % key.Length]) % S.Length;
                 tmp = S[i];
@@ -34,7 +35,7 @@ namespace lab8.RC4
                 S[j] = tmp;
             }
 
-            for (a = j = i = 0; i < data.Length; i++)
+            for (a = j = i = 0; i < data.Length; i++) //генерация ПСП
             {
                 a = (a + 1) % S.Length;
                 j = (j + S[a]) % S.Length;
@@ -44,6 +45,8 @@ namespace lab8.RC4
                 k = S[(S[a] + S[j]) % S.Length];
                 result[i] = (byte)(data[i] ^ k);
             }
+
+            time = DateTime.Now - t;
 
             return Encoding.GetEncoding(1251).GetString(result);
         }
@@ -55,7 +58,9 @@ namespace lab8.RC4
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox2.Text = Crypt(textBox1.Text, key);
+            TimeSpan t;
+            textBox2.Text = Crypt(textBox1.Text, key, out t);
+            textBox3.Text = t.ToString();
         }
     }
 }

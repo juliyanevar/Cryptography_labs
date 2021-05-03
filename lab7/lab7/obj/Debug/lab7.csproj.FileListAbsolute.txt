@@ -18,3 +18,23 @@ C:\Users\Julia\Documents\учеба\6 сем\КМЗИ\labs\lab7\lab7\obj\Debug\l
 C:\Users\Julia\Documents\учеба\6 сем\КМЗИ\labs\lab7\lab7\obj\Debug\lab7.csproj.CopyComplete
 C:\Users\Julia\Documents\учеба\6 сем\КМЗИ\labs\lab7\lab7\obj\Debug\lab7.exe
 C:\Users\Julia\Documents\учеба\6 сем\КМЗИ\labs\lab7\lab7\obj\Debug\lab7.pdb
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\bin\Debug\lab7.exe.config
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\bin\Debug\System.Memory.dll
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\bin\Debug\System.Buffers.dll
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\obj\Debug\lab7.csprojAssemblyReference.cache
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\obj\Debug\lab7.exe.config
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\obj\Debug\lab7.Form1.resources
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.cache
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\obj\Debug\lab7.csproj.CopyComplete
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\obj\Debug\lab7.exe
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab7\lab7\obj\Debug\lab7.pdb

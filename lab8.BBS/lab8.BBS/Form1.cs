@@ -43,11 +43,16 @@ namespace lab8.BBS
             p = Int32.Parse(textBox2.Text);
             q = Int32.Parse(textBox3.Text);
 
+            DateTime t = DateTime.Now;
             for (int i = 0; i < N; i++)
             {
+                
                 textBox1.Text += BBS(p, q).ToString()+" ";
+                
             }
-            
+
+            textBox4.Text = (DateTime.Now-t).ToString();
+
         }
     }
 }
