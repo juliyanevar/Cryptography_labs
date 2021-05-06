@@ -1,0 +1,16 @@
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10\bin\Debug\lab10.exe.config
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10\bin\Debug\lab10.exe
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10\bin\Debug\lab10.pdb
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10\obj\Debug\lab10.csprojAssemblyReference.cache
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10\obj\Debug\lab10.Form1.resources
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10\obj\Debug\lab10.Properties.Resources.resources
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10\obj\Debug\lab10.csproj.GenerateResource.cache
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10\obj\Debug\lab10.csproj.CopyComplete
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10\obj\Debug\lab10.exe
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10\obj\Debug\lab10.pdb
