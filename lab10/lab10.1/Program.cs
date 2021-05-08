@@ -14,7 +14,6 @@ namespace lab10._1
         {
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
 
-            //DateTime t;
             var timer = new Stopwatch();
             var a = new BigInteger(13);
             var n = new BigInteger(Encoding.UTF8.GetBytes("13131139780205884014566051738979"));
@@ -30,9 +29,6 @@ namespace lab10._1
 
             foreach (var num in xArray)
             {
-                //t = DateTime.Now;
-                //var y = BigInteger.ModPow(a, num, n);
-                //Console.WriteLine($"y = {y}, a = {a}, n = {n}, x = {num},\n time = {DateTime.Now-t}");
                 timer.Start();
                 var y = BigInteger.ModPow(a, num, n);
                 timer.Stop();

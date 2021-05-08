@@ -10,3 +10,4 @@ C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10.1\obj\Debug\lab10.
 C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10.1\obj\Debug\lab10.1.csproj.CopyComplete
 C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10.1\obj\Debug\lab10.1.exe
 C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10.1\obj\Debug\lab10.1.pdb
+C:\Users\Julia\Documents\study\6sem\КМЗИ\labs\lab10\lab10.1\obj\Debug\lab10.1.csprojAssemblyReference.cache

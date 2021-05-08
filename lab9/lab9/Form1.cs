@@ -127,7 +127,7 @@ namespace lab9
                 binaryStr.Add(symbol.ToString());
             }
             time = DateTime.Now - t;
-            return Encoding.GetEncoding(1251).GetString(binaryStr.Select(s => Convert.ToByte(s, 2)).ToArray()); ;
+            return Encoding.GetEncoding(1251).GetString(binaryStr.Select(s => Convert.ToByte(s, 2)).ToArray()); 
         }
 
         private void button1_Click(object sender, EventArgs e)
